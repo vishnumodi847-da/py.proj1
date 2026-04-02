@@ -4,11 +4,16 @@ age=int(input('enter your age'))
 height=float(input('enter your height'))
 sports=str(input('enter your sport'))
 gender=str(input('enter your gender'))
-print(name)
-print(age)
-print(height)
-print(sports)
-print(gender)
+print('name',name)
+print('age',age)
+print('height',height)
+print('sports',sports)
+print('gender',gender)
+
+print(type(name))
+print(type(age))
+print(type(gender))
+      
 
 #id
 print(id(name))
