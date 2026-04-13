@@ -27,16 +27,16 @@ elif income > 100000 and expense > 80000:
     print('bad job')
 else:
     print('exit')
-⚠️ Limitations
-No error handling for invalid input
-No data storage (temporary execution only)
-Simple logic (beginner level)
-🔧 Future Improvements
-✅ Add input validation
-💾 Store data using file (JSON/CSV)
-🖥️ Add GUI (Tkinter)
-📊 More complex calculations
-🎯 Learning Purpose
+- ⚠️ Limitations
+-No error handling for invalid input
+-No data storage (temporary execution only)
+-Simple logic (beginner level)
+-🔧 Future Improvements
+-✅ Add input validation
+-💾 Store data using file (JSON/CSV)
+-🖥️ Add GUI (Tkinter)
+-📊 More complex calculations
+-🎯 Learning Purpose
 
 This project is perfect for:
 
